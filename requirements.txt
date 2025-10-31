@@ -6,4 +6,4 @@ uvicorn
 pillow
 clip-by-openai
 torch==2.5.0
-torchvision
+torchvision==0.15.2
