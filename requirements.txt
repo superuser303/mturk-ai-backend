@@ -5,5 +5,5 @@ fastapi
 uvicorn
 pillow
 clip-by-openai
-torch==2.5.0+cpu
-torchvision==0.20.0+cpu
+torch==2.5.0
+torchvision==0.20.0
